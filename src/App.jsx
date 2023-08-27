@@ -6,7 +6,7 @@ function App() {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "d167c5a2fdmsh6b06bf3e18a35a5p15b149jsn0716a7525de8",
+      "XRapidAPIKey": "d167c5a2fdmsh6b06bf3e18a35a5p15b149jsn0716a7525de8",
       "X-RapidAPI-Host": "mmo-games.p.rapidapi.com",
     },
   };
